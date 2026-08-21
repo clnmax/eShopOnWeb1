@@ -9,7 +9,7 @@ env:
   LOCATION: canadaeast
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 50848570-656b-470f-b55d-2334a9751d5d
-  WEBAPP-NAME: eshoponweb-webapp-NAM
+  WEBAPP-NAME: eshoponweb-webapp-NAME
 
 jobs:
   #Build, test and publish .net web project in repository
